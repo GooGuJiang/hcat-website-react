@@ -3,6 +3,7 @@ import {HcatLogo} from "./Logo";
 import React from 'react';
 
 function HcatNavbar() {
+  
     return(
       <Navbar shouldHideOnScroll variant={"floating"}>
      <Navbar.Brand>
